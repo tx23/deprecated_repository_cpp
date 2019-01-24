@@ -1,0 +1,5 @@
+2019-01-21 04:11:03,552 MyCategory [DEBUG] [TestMylogger.cc:test3:42] this is a error message! number = 10, str = hello,world
+2019-01-21 04:11:03,554 MyCategory [ERROR] [TestMylogger.cc:test3:43] this is a error message! number = 10, str = hello,world
+2019-01-21 04:11:03,555 MyCategory [WARN] [TestMylogger.cc:test3:44] this is a error message!
+2019-01-21 04:11:03,555 MyCategory [INFO] [TestMylogger.cc:test3:45] this is a error message!
+2019-01-21 04:11:03,556 MyCategory [DEBUG] [TestMylogger.cc:test3:46] this is a error message!
